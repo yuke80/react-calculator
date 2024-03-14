@@ -1,7 +1,5 @@
 ## 電卓(React.js)
 > This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-### 紹介
 ```
 Descripition: Meta社のReactオンラインコースの研修課題をアレンジして作成しました
 
