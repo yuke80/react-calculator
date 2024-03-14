@@ -1,7 +1,19 @@
-## Reactで作った電卓
+## 電卓(React.js)
 > This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-### Available Scripts
+### 紹介
+```
+Descripition: Meta社のReactオンラインコースの研修課題をアレンジして作成しました
+
+course URL: https://www.coursera.org/professional-certificates/meta-front-end-developer?
+
+Role: React Developer
+
+Tech Stack: React.js
+
+```
+
+#### Available Scripts
 
 In the project directory, you can run:
 
