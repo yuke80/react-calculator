@@ -10,7 +10,6 @@ course URL: https://www.coursera.org/professional-certificates/meta-front-end-de
 Role: React Developer
 
 Tech Stack: React.js
-
 ```
 
 #### Available Scripts
