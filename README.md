@@ -12,7 +12,7 @@ Role: React Developer
 Tech Stack: React.js
 ```
 
-<img src="/public/img-1.png" alt="Alt text" width="300" height="200">
+<img src="/public/img-1.png" alt="Alt text" width="600" height="400">
 
 ### Available Scripts
 
